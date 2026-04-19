@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Jeet Goyal</h1>
 
-<!--
-**jeetgoyal80/jeetgoyal80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 AI/ML Engineer • Full Stack Developer • SIH Finalist
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/jeet-goyal-95bb21285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/jeetgoyal80">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Snapshot
+
+```diff
++ B.Tech @ MANIT Bhopal (NIT B)
++ AI/ML Intern @ Innovgeist
++ Head of Web Dev @ Vision MANIT
++ SIH 2025 Finalist (Team Lead)
