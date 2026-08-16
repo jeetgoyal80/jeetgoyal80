@@ -12,7 +12,7 @@
 
 Hello ! I'm Jeet 👋  
 
-- 🎓 B.Tech (3rd Year) in Electrical Engineering at **NIT Bhopal (MANIT)**  
+- 🎓 B.Tech (Final Year) in Electrical Engineering at **NIT Bhopal (MANIT)**  
 - 💻 Passionate about **Backend Development & Scalable Systems**  
 - ⚡ Building real-world projects using **MERN + AI integrations**  
 - 🤖 Exploring **Machine Learning, Deep Learning & LLMs**  
